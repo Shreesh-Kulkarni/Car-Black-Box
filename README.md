@@ -1,5 +1,5 @@
 # Car-Black-Box
-An Embedded Application developed using PIC16F877A microcontroller
+An Embedded Application developed using PIC16F877A microcontroller which makes extensive use of various peripherals and protocols of a advanced microcontroller to design a black-box system similar to what we observe in aeroplanes but implemented in cars or any other land vehicle.
 
 # NOTE
 1. This is my final project submission for my internship at Emertxe Information Technologies.
