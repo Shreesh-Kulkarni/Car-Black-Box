@@ -9,12 +9,13 @@ An Embedded Application developed using PIC16F877A microcontroller
 
 
 
-a. [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
+ [MPLAB X IDE](https://www.digikey.in/-/media/Images/Blogs/2018/July/Microchips%20MPLAB%20X%20IDE%20Now%20Features%20Beta%20Support%20for%20AVRs/microchips-mplab-x-ide-now-features-beta-support-for-avrs-img1.jpg)
 
 ![](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1612294657229/mplab-xide-transparent-background.png)
 
 
-b.![PICSimLab](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuX-0DBObF1KCpwrekqpb4nrXY-TybuuSyXQ&usqp=CAU)
+# PICSimLab
+![PICSimLab](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuX-0DBObF1KCpwrekqpb4nrXY-TybuuSyXQ&usqp=CAU)
 
 
 
